@@ -1,0 +1,33 @@
+c:\users\paulina\documents\visual studio 2015\Projects\PaulinaKujawaHomework2\PaulinaKujawaHomework2\bin\Debug\PaulinaKujawaHomework2.exe.config
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework2\PaulinaKujawaHomework2\bin\Debug\PaulinaKujawaHomework2.exe
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework2\PaulinaKujawaHomework2\bin\Debug\PaulinaKujawaHomework2.pdb
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework2\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.csprojResolveAssemblyReference.cache
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework2\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.Form1.resources
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework2\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.Properties.Resources.resources
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework2\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.csproj.GenerateResource.Cache
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework2\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.exe
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework2\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.pdb
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework2\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.FormEagle.resources
+C:\Users\Paulina\Documents\Visual Studio 2015\Projects\PaulinaKujawaHomework2\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.Form2.resources
+C:\Users\Paulina\Desktop\Kredek\paulina_kujawa\lab2\Homework\PaulinaKujawaHomework2\bin\Debug\PaulinaKujawaHomework2.exe.config
+C:\Users\Paulina\Desktop\Kredek\paulina_kujawa\lab2\Homework\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.exe
+C:\Users\Paulina\Desktop\Kredek\paulina_kujawa\lab2\Homework\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.pdb
+C:\Users\Paulina\Desktop\Kredek\paulina_kujawa\lab2\Homework\PaulinaKujawaHomework2\bin\Debug\PaulinaKujawaHomework2.exe
+C:\Users\Paulina\Desktop\Kredek\paulina_kujawa\lab2\Homework\PaulinaKujawaHomework2\bin\Debug\PaulinaKujawaHomework2.pdb
+C:\Users\Paulina\Desktop\Kredek\paulina_kujawa\lab2\Homework\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.csprojResolveAssemblyReference.cache
+C:\Users\Paulina\Desktop\Kredek\paulina_kujawa\lab2\Homework\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.Form1.resources
+C:\Users\Paulina\Desktop\Kredek\paulina_kujawa\lab2\Homework\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.Form2.resources
+C:\Users\Paulina\Desktop\Kredek\paulina_kujawa\lab2\Homework\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.FormEagle.resources
+C:\Users\Paulina\Desktop\Kredek\paulina_kujawa\lab2\Homework\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.Properties.Resources.resources
+C:\Users\Paulina\Desktop\Kredek\paulina_kujawa\lab2\Homework\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.csproj.GenerateResource.Cache
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab2\Homework\PaulinaKujawaHomework2\bin\Debug\PaulinaKujawaHomework2.exe.config
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab2\Homework\PaulinaKujawaHomework2\bin\Debug\PaulinaKujawaHomework2.exe
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab2\Homework\PaulinaKujawaHomework2\bin\Debug\PaulinaKujawaHomework2.pdb
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab2\Homework\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.csprojAssemblyReference.cache
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab2\Homework\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.Form1.resources
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab2\Homework\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.Form2.resources
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab2\Homework\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.FormEagle.resources
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab2\Homework\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.Properties.Resources.resources
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab2\Homework\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.csproj.GenerateResource.cache
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab2\Homework\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.exe
+C:\Users\pkuja\OneDrive\Pulpit\C#\Kredek\paulina_kujawa\lab2\Homework\PaulinaKujawaHomework2\obj\Debug\PaulinaKujawaHomework2.pdb
